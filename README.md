@@ -25,14 +25,14 @@ I am currently mainly working with Python, FastAPI, MongoDB, Docker, and AWS for
 <p align="center">📫 <strong>nreyes.dev@gmail.com</strong></p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208" target="blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208" target="_blank" rel="noreferrer">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40"
     />
   </a>
-</p>
+</div>
 
 <h3 align="center">Technical Skillset:</h3>
 <div align="center"> 
