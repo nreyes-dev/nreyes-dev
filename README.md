@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center"> 🔭
-I am currently mainly working with Python, FastAPI, MongoDB, Docker, and AWS for backend development, with React as my primary framework for front-end work.</p>
+I am currently mainly working with Python, FastAPI, MongoDB, Docker, and AWS for backend development, with React as my primary framework for front-end and mobile work.</p>
 
 <p align="center">Don't hesitate to reach out if you believe there's something I can help you with:</p>
 <p align="center">📫 <strong>nreyes.dev@gmail.com</strong></p>
