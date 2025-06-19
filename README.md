@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi! I'm Nicolás Reyes👋</h1>
-<h3 align="center">Full-Stack Software Engineer specialized in back-end.</h3>
-
+<h2 align="center">Full-Stack Software Engineer with 10+ years of experience in the field</h2>
+<h3 align="center">⚙️ I build projects front 🖥️ and back 🛠️, deploy them to the cloud ☁️, and keep them running 🔄</h3>
 <br>
 <br>
-<p align="center"> 🔭
-I am currently mainly working with Python, FastAPI, MongoDB, Docker, and AWS for backend development, with React as my primary framework for front-end and mobile work.</p>
-
-<p align="center">Don't hesitate to reach out if you believe there's something I can help you with:</p>
-<p align="center">📫 <strong>nreyes.dev@gmail.com</strong></p>
-
+<p align="left">These days I mostly work with Python (FastAPI) + MongoDB + Docker + AWS on the back-end. But I also love Rust and Go and have plenty of experience with SQL as well. React and React Native for web and mobile frontend. I can write TypeScript or JavaScript.</p>
+<p align="left">Don't hesitate to reach out if you believe there's something I can help you with: 📫 <strong>nreyes.dev@gmail.com</strong></p>
+<br>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208" target="_blank" rel="noreferrer">
@@ -33,7 +30,6 @@ I am currently mainly working with Python, FastAPI, MongoDB, Docker, and AWS for
     />
   </a>
 </div>
-
 <h3 align="center">Technical Skillset:</h3>
 <div align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
