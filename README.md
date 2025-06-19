@@ -71,7 +71,7 @@ Here are some ideas to get you started:
     </a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://iconduck.com/wp-content/assets/icons/google-cloud/google-cloud-512.png"
+        src="google-cloud-platform.svg"
         alt="gcp"
         width="40" height="40"/>
     </a>
