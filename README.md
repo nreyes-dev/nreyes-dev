@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi! I'm Nicolás Reyes👋</h1>
 <h2 align="center">Full-Stack Software Engineer with 10+ years of experience in the field</h2>
-<h3 align="center">🛠️ I build projects front and back </br>☁️ I deploy them to the cloud </br>🔄✅ And I keep them running</h3>
+<h3 align="center">🛠️ I build projects front and back </br>☁️ I deploy them to the cloud </br>🔄✅ I keep everything running</h3>
 <br>
 <br>
 <p align="left">These days I mostly work with Python (FastAPI) + MongoDB + Docker + AWS on the back-end. But I also love Rust and Go and have plenty of experience with SQL as well. React and React Native for web and mobile frontend. I can write TypeScript or JavaScript.</p>
