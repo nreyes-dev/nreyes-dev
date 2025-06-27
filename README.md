@@ -90,6 +90,11 @@ Here are some ideas to get you started:
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40"/>
     </a>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img
+        src="astro.png"
+        alt="astro" width="40" height="40"/>
+    </a>
 </div>
 
 <!-- commented out because it doesn't include private repo data -->
