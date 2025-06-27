@@ -91,8 +91,6 @@ Here are some ideas to get you started:
         alt="react" width="40" height="40"/>
     </a>
 </div>
-  </p>
-<br>
 
 <!-- commented out because it doesn't include private repo data -->
 <!-- <h3 align="center">Statistical Data :-</h3>
@@ -109,6 +107,3 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nreyes-dev&theme=tokyonight_duo&hide_border=true" alt="nreyes-dev" /></p> -->
 
-<br>
-
-<br>
