@@ -1,16 +1,5 @@
 <!--
 **nreyes-dev/nreyes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h1 align="center">Hi! I'm Nicolás Reyes👋</h1>
@@ -34,65 +23,65 @@ Here are some ideas to get you started:
 <div align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+        src="icons/python-original.svg" alt="python"
         width="40" height="40"/>
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi"
+        src="icons/fastapi-original.svg" alt="fastapi"
         width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"
+      <img src="icons/postgresql-original-wordmark.svg" alt="postgresql" width="40"
       height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      <img src="icons/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust"
+        src="icons/rust.svg" alt="rust"
         width="40" height="40"/>
     </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
+        src="icons/go-original.svg" alt="go"
         width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        src="icons/docker-original-wordmark.svg"
         alt="docker" width="40" height="40"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"
+        src="icons/amazonwebservices-original-wordmark.svg" alt="aws"
         width="40" height="40"/>
     </a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img
-        src="google-cloud-platform.svg"
+        src="icons/google-cloud-platform.svg"
         alt="gcp"
         width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        src="icons/javascript-original.svg"
         alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        src="icons/typescript-original.svg"
         alt="typescript" width="40" height="40"/> 
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        src="icons/react-original-wordmark.svg"
         alt="react" width="40" height="40"/>
     </a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
     <img
-        src="astro.png"
+        src="icons/astro.png"
         alt="astro" width="40" height="40"/>
     </a>
 </div>
@@ -111,4 +100,3 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nreyes-dev&theme=tokyonight_duo&hide_border=true" alt="nreyes-dev" /></p> -->
-
