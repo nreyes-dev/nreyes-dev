@@ -14,78 +14,49 @@
 <p align="center">Don't hesitate to reach out if you believe there's something I can help you with:</br>📫 <strong>nreyes.dev@gmail.com</strong></p>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208" target="_blank" rel="noreferrer">
-    <img align="center"
+  <a href="https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin" height="30" width="40"
-    />
-  </a>
+      alt="linkedin" height="30" width="40"/></a>
 </div>
 <h3 align="center">Technical Skillset:</h3>
 <div align="center"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
         src="icons/python-original.svg" alt="python"
-        width="40" height="40"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-      <img
+        width="40" height="40"/></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img
         src="icons/fastapi-original.svg" alt="fastapi"
-        width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="icons/postgresql-original-wordmark.svg" alt="postgresql" width="40"
-      height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="icons/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img
+        width="40" height="40"/></a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="icons/postgresql-original-wordmark.svg" alt="postgresql" width="40"
+      height="40"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="icons/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img
         src="icons/rust.svg" alt="rust"
-        width="40" height="40"/>
-    </a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-      <img
+        width="40" height="40"/></a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"><img
         src="icons/go-original.svg" alt="go"
-        width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img
+        width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
         src="icons/docker-original-wordmark.svg"
-        alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-      <img
+        alt="docker" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img
         src="icons/amazonwebservices-original-wordmark.svg" alt="aws"
-        width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img
+        width="40" height="40"/></a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img
         src="icons/google-cloud-platform.svg"
         alt="gcp"
-        width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img
+        width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
         src="icons/javascript-original.svg"
-        alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
+        alt="javascript" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
         src="icons/typescript-original.svg"
-        alt="typescript" width="40" height="40"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
+        alt="typescript" width="40" height="40"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
         src="icons/react-original-wordmark.svg"
-        alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img
+        alt="react" width="40" height="40"/></a>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img
         src="icons/astro.png"
-        alt="astro" width="40" height="40"/>
-    </a>
+        alt="astro" width="40" height="40"/></a>
 </div>
 
 <!-- commented out because it doesn't include private repo data -->
@@ -102,3 +73,4 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nreyes-dev&theme=tokyonight_duo&hide_border=true" alt="nreyes-dev" /></p> -->
+
