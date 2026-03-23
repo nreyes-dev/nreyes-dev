@@ -59,18 +59,9 @@
         alt="astro" width="40" height="40"/></a>
 </div>
 
-<!-- commented out because it doesn't include private repo data -->
-<!-- <h3 align="center">Statistical Data :-</h3>
-<p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nreyes-dev&show_icons=true&locale=en&layout=compact"
-    alt="nreyes-dev" /></p>
-
-<br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nreyes-dev&show_icons=true&locale=en"
-    alt="nreyes-dev" /></p>
-
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nreyes-dev&theme=tokyonight_duo&hide_border=true" alt="nreyes-dev" /></p> -->
+<p align="center">
+  <img src="https://stats.nreyes.dev/lang-stats.svg?theme=dark" alt="Language Stats" />
+  <br/><br/>
+  <img src="https://stats.nreyes.dev/stats.svg?theme=dark" alt="Contribution Stats" />
+</p>
 
