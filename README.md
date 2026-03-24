@@ -59,9 +59,10 @@
         alt="astro" width="40" height="40"/></a>
 </div>
 
+<br/>
 <p align="center">
   <img src="https://stats.nreyes.dev/lang-stats.svg?theme=dark" alt="Language Stats" />
-  <br/><br/>
+  <br/>
   <img src="https://stats.nreyes.dev/stats.svg?theme=dark" alt="Contribution Stats" />
 </p>
 
