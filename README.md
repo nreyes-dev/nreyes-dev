@@ -3,8 +3,8 @@
 -->
 
 <h1 align="center">Hi! I'm Nicolás Reyes👋</h1>
-<h2 align="center">Full-Stack Software Engineer with 10+ years of experience in the field</h2>
-<h3 align="center">🛠️ I build projects front and back </br>☁️ I deploy them to the cloud </br>🔄✅ I keep everything running</h3>
+<h2 align="center">Full-Stack & AI Engineer with 10+ years of experience in the field</h2>
+<h3 align="center">🤖 I build AI-powered features by integrating LLMs like the Anthropic API </br>⚡ I ship faster with AI tools like Claude Code & Codex </br>🛠️ I build projects front and back </br>☁️ I deploy them to the cloud </br>🔄✅ I keep everything running</h3>
 <br>
 <!--
 <br>
@@ -19,7 +19,38 @@
       alt="linkedin" height="30" width="40"/></a>
 </div>
 <h3 align="center">Technical Skillset:</h3>
-<div align="center"> 
+<div align="center">
+    <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img
+        src="icons/claude.svg" alt="claude"
+        width="40" height="40"/></a>
+    <a href="https://openai.com/" target="_blank" rel="noreferrer"><img
+        src="icons/openai.svg" alt="openai"
+        width="40" height="40"/></a>
+    <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img
+        src="icons/mcp.svg" alt="model context protocol"
+        width="40" height="40"/></a>
+    <a href="https://www.cursor.com/" target="_blank" rel="noreferrer"><img
+        src="icons/cursor.svg" alt="cursor"
+        width="40" height="40"/></a>
+    <a href="https://github.com/openclaw/openclaw" target="_blank" rel="noreferrer"><img
+        src="icons/openclaw.svg" alt="openclaw"
+        width="40" height="40"/></a>
+</div>
+<div align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
+        src="icons/javascript-original.svg"
+        alt="javascript" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
+        src="icons/typescript-original.svg"
+        alt="typescript" width="40" height="40"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
+        src="icons/react-original-wordmark.svg"
+        alt="react" width="40" height="40"/></a>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img
+        src="icons/astro.png"
+        alt="astro" width="40" height="40"/></a>
+</div>
+<div align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
         src="icons/python-original.svg" alt="python"
         width="40" height="40"/></a>
@@ -35,9 +66,14 @@
     <a href="https://go.dev/" target="_blank" rel="noreferrer"><img
         src="icons/go-original.svg" alt="go"
         width="40" height="40"/></a>
+</div>
+<div align="center">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
         src="icons/docker-original-wordmark.svg"
         alt="docker" width="40" height="40"/></a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img
+        src="icons/kubernetes.svg"
+        alt="kubernetes" width="40" height="40"/></a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img
         src="icons/terraform-icon.png"
         alt="terraform" width="40" height="40"/></a>
@@ -48,18 +84,6 @@
         src="icons/google-cloud-platform.svg"
         alt="gcp"
         width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
-        src="icons/javascript-original.svg"
-        alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
-        src="icons/typescript-original.svg"
-        alt="typescript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
-        src="icons/react-original-wordmark.svg"
-        alt="react" width="40" height="40"/></a>
-    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img
-        src="icons/astro.png"
-        alt="astro" width="40" height="40"/></a>
 </div>
 
 <br/>
